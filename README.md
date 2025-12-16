@@ -97,12 +97,3 @@ An accuracy of 96% was achieved by using SVM model and after normalization techn
 
 Fork the Repository and clone it in ur PC , voila its urs now use it your own way i hope u will do even cooler things ;)
 
-# Final Note 
-
-To conclude i would like to say that Machine Learning has inspired me for doing great things by learning about great things this project is one of my starters project in this domain and with it iam able to experience not only life of an Enginner but a Physican as well. Doing this project was a pleasure for me and finding out about Death rate due to Breast Cancer really painful , a lot of information i gathered which i could have never known about and loads of learning happened in between so if you are doing this Project i really hope you too will enjoy playing with the dataset ,rejoice your imagination of "Whatif this Could Happen" and unleash the creativity and potential that resides within you.
-
-Finally thanks for having me with you for quiet a lot of your precious time hope to see you next with real goods stuffs ahead , feel free to connect with me I WON'T BITE and would love collaborating with you,you can find my contact information in my Github Profile only.
-
-Also if you enjoyed this and you are not a sadist then dont forget to leave a star, you know those star and Green square really satisfy me :)
-
-Until we Meet Next HAPPY LEARNING ❤️.
